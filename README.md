@@ -74,8 +74,3 @@
       alt="typescript" width="52" height="52" style="margin:12px"/>
   </a>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndhar8&show_icons=true&locale=en&layout=compact" alt="sowndhar8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowndhar8&show_icons=true&locale=en" alt="sowndhar8" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowndhar8&" alt="sowndhar8" /></p>
