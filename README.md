@@ -20,7 +20,8 @@
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="52" height="52" style="margin:12px"/>
+      alt="bootstrap" width="52" height="52" style="margin:12px; fill:white;"
+/>
   </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -73,7 +74,7 @@
       alt="typescript" width="52" height="52" style="margin:12px"/>
   </a>
 </p>
-><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndhar8&show_icons=true&locale=en&layout=compact" alt="sowndhar8" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndhar8&show_icons=true&locale=en&layout=compact" alt="sowndhar8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowndhar8&show_icons=true&locale=en" alt="sowndhar8" /></p>
 
